@@ -1,4 +1,5 @@
 This dockerfile can be used to build a CentOS Gluster Container.
+Now not need downgrade Centos some packages
 
 # Support for fake disks
 
